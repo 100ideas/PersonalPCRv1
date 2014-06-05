@@ -1,7 +1,7 @@
 PersonalPCRv1
 =============
 
-**PersonalPCRv1 is a 2-tube arduino shield PCR thermocycler. Resistive heating, forced-air ambient cooling, no heated lid**.
+### PersonalPCRv1 is a 2-tube arduino shield PCR thermocycler. Resistive heating, forced-air ambient cooling, no heated lid.
 
 ![PersonalPCRv2 2011-11-04 test run](images/PersonalPCRv2_2011-11-04_run1.png)
 
@@ -12,3 +12,9 @@ During 2012-13, the PersonalPCRv1 design evolved into an [8-tube strip resitive-
 [MiniPCR.com](http://minipcr.com/), led by one of the original PersonalPCR developers from TA, manufactures and sells a thermocycler forked from the PersonalPCRv2 reference design. As of June 2014 they are unsure if they will continue the open-source tradition with their MiniPCR product. Assembled units start at $799.
 
 Contents: hardware BOM, Arduino firmware, PCB design and fabrication files.
+
+### More Images
+
+![PersonalPCRv2 orthographic rendering](images/PersonalPCRv1_ortho2.jpg)
+
+![PersonalPCRv2 side-profile cutaway rendering](images/PersonalPCRv2_cut-away.jpg)
