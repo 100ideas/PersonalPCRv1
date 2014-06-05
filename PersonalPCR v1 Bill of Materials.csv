@@ -1,0 +1,32 @@
+Project:,PersonalPCR,,,,,,,
+Circuit Board Components,,,,,,,,
+Part,Description,Value,Package,#,Manufact.,Man PN,Vendor,Vend PN
+"R1,R2,R3,R4,R5",Resistor,2000 Ohm,1206,3,,,Digikey,P2.00KFCT-ND
+"A0,A1,A2,A3,A4",Thermistor,2000 Ohm,Leaded,3,,,Digikey,495-2144-ND
+"R6,R7,R8",Resistor,240 Ohm,1206,2,,,Digikey,311-240ERCT-ND
+"R11,R14,R17",Heater Resistor,12 Ohm,TH,1,Yageo,,Digikey,12W-5-ND
+C1,Capacitor,10 uF,5x2mm TH,1,Panasonic,ECA-1CM101,Digikey,P5138-ND
+--,Header,--,6 pin,2,3M,961106-6404-AR,Digikey,3M9451-ND
+--,Header,--,8 pin,2,3M,961108-6404-AR,Digikey,3M9452-ND
+"U1,U2,U3",Transistor,---,SOT-223,2,,,Digikey,FZT600CT-ND
+,,,,,,,,
+Fan and Power Supply,,,,,,,,
+Part,Description,Value,Package,#,Manufact.,Man PN,Vendor,Vend PN
+Extension Wire,,,,4,,,,misc
+Heat Shrink,,,,4,,,,misc
+Power Supply,12V 2A Arduino Compatible,,,1,,,,misc
+FAN,FAN,,,1,,,Digikey,259-1564-ND
+Cap,Cap,1uF,Leaded,1,,,,misc
+,,,,,,,,
+Tube Holder,,,,,,,,
+Part,Description,Value,Package,#,Manufact.,Man PN,Vendor,Vend PN
+Aluminum Tube,"9/32"" OD Tube",,,2,,,,misc
+Aluminum Base,"1/4"" OD Stock",,,2,,,,misc
+JB Weld,Epoxy,,,1,,,,misc
+Acylic Top,"1/4"" Thick",,,1,,,,misc
+Standoffs,,,,4,,,McMaster,94639A664
+Screws,1.5” 4-40,,,4,,,McMaster,90276A119
+Nuts,4-40,,,4,,,McMaster,90480A005
+,,,,,,,,
+,,,,,,,,
+NOTE: also check source BOM doc https://docs.google.com/spreadsheet/pub?key=0AvoYCobWBMh5dEljTXpmc19MSXRkVzA4d0dFUkpDNmc,,,,,,,,
